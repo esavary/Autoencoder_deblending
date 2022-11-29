@@ -43,6 +43,7 @@ def difference_mag(n1,n2):
 
 
 def extract_data(path_lenses,path_non_lenses,path_substracted,path_LRG):
+    #extract data
     X=[]
     Y1=[]
     Y2 = []
